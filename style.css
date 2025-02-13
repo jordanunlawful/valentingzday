@@ -38,3 +38,19 @@ button {
     border: none; /* Remove button border */
     cursor: pointer; /* Set cursor to pointer on hover */
 }
+
+/* Style for the message */
+#message {
+    display: none;
+    font-family: 'Sacramento', cursive;
+    font-size: 2em;
+    text-align: center;
+    margin-top: 20px;
+}
+
+/* Style for the cat-heart image */
+#image-container img {
+    background: transparent;
+    display: block;
+    margin: 0 auto;
+}
